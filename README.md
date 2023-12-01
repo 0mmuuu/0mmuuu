@@ -1,4 +1,5 @@
-### Hi there 👋
+### I like to code.
+
 
 <!--
 **0mmuuu/0mmuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
